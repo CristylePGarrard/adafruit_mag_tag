@@ -72,3 +72,4 @@ Staying in bootloader.
     - adafruit_slideshow.mpy
     - neopixel.mpy
     - simpleio.mpy
+12. create secrets.py file. [Here](https://learn.adafruit.com/adafruit-pyportal/internet-connect) is information about file structure.
