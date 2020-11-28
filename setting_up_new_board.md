@@ -58,3 +58,17 @@ Hash of data verified.
 Leaving...
 Staying in bootloader.
 ```
+10. Press and release reboot button
+    - New CIRCUITPY drive is visible
+    - Hello world script runs and shows on magtag display
+11. Copy necessary files from CircuitPython library bundle to CIRCUITPY/lib/. 
+    - adafruit_bitmap_font
+    - adafruit_display_text
+    - documentation says add adafruit_il0737 but I couln't find it. I moved adafruit_il0373.mpy to directory.
+    - adafruit_io
+    - adafruit_magtag
+    - adafruit_miniqr.mpy
+    - adafruit_requests.mpy
+    - adafruit_slideshow.mpy
+    - neopixel.mpy
+    - simpleio.mpy
